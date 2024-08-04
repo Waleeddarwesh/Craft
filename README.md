@@ -9,7 +9,6 @@ The Craft application is a comprehensive platform that integrates multiple funct
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -24,7 +23,7 @@ This project features over 150 endpoints, ensuring seamless interaction and data
 ## Interfaces
 The application includes three distinct interfaces, each tailored to meet the specific needs and workflows of its users:
 - **Customer**: A user-friendly interface for customers to browse products, enroll in courses, and interact with other users.
-- **Crafter**: A specialized interface for crafters to manage their products, track orders, and engage with customers.
+- **Crafter**: A specialized interface for crafters to publish Courses, manage their products, track orders, and engage with customers.
 - **Delivery**: A streamlined interface for delivery personnel to manage deliveries and update order statuses.
 
 ## Installation
@@ -32,12 +31,12 @@ To install and run the Craft application locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/craft-application.git
+    git clone https://github.com/Waleeddarwesh/Craft.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd craft-application
+    cd Craft
     ```
 
 3. Install the required dependencies:
@@ -61,10 +60,8 @@ To install and run the Craft application locally, follow these steps:
     ```
 
 ## Usage
-After installing the application, you can access the different interfaces and functionalities by navigating to the respective URLs:
-- Customer Interface: [http://localhost:8000/customer](http://localhost:8000/customer)
-- Crafter Interface: [http://localhost:8000/crafter](http://localhost:8000/crafter)
-- Delivery Interface: [http://localhost:8000/delivery](http://localhost:8000/delivery)
+Access the Swagger documentation to view all endpoints and their details:
+- **Documentation**: [http://localhost:8000/docs/](http://localhost:8000/docs/)
 
 ## Contributing
 We welcome contributions to the Craft application! If you would like to contribute, please follow these steps:
@@ -87,11 +84,7 @@ We welcome contributions to the Craft application! If you would like to contribu
 
 5. Create a pull request with a detailed description of your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contact
 For any questions or inquiries, please contact:
-- Name: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Name: [Waleed Darwesh]
+- Email: [Waleeddarwesh2002@gmail.com]
